@@ -27,7 +27,7 @@ Config.Keys = {
 
 -- Prints to the F8/client console confirming the resource loaded and when keys are detected,
 -- to make it easy to verify things are working. Set to false once you've confirmed it works.
-Config.Debug = true
+Config.Debug = false
 
 -- Hold-time tuning (milliseconds)
 Config.DiveHoldTimeMs = 1     -- how long "Dive" must be held before the custom dodge triggers (1 ~= trigger on tap, matches keyboard play)
